@@ -20,3 +20,5 @@ A lógica através das family poderia ter sido melhor aproveitada, alguns provid
 <https://batalhanavalflutter.web.app/>
 
 No navegador mobile o desempenho é apenas mediano
+
+[![wakatime](https://wakatime.com/badge/user/4cd35845-67d5-4f6d-964c-41c26658b197/project/58a67878-e5a5-46fa-85bd-0ad17eedf99c.svg)](https://wakatime.com/badge/user/4cd35845-67d5-4f6d-964c-41c26658b197/project/58a67878-e5a5-46fa-85bd-0ad17eedf99c)
